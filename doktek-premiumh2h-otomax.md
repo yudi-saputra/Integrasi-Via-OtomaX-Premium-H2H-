@@ -4,6 +4,17 @@
 ```bash
 http://rch2h.mmtech.id
 ```
+**Center Jabber**
+```bash
+pph2h06@fujabber.com
+```
+```bash
+pph2h06@jabbim.cz
+```
+```bash
+pph2h51@jabberix.com
+```
+
 ### Laporan Status Transaksi ###
 - **Transaksi Sukses**
     ```bash
@@ -61,6 +72,13 @@ http://rch2h.mmtech.id
     ```bash
     ?cmd=ticket&memberid=[memberid]&amount=[nominal]&pin=[pin]&password=[password]
     ```
+### Format Center Jabber ###
+- Pengisian Pulsa (Counter) : kode[nominal].[counter].[tujuan].[pin]
+- Pengisian Pulsa (trxid) : kode[nominal].[tujuan].[pin]#[trxid]
+- Cek Saldo : SAL.[pin]
+- Ubah PIN : GPIN.[pinbaru].[pinlama]
+- Format Ambil Tiket : TIKET.[nominal].[pin]
+    
 
 ### CS Online 24 Jam
 - CS. Telegram : [@cs_premiumH2H](https://t.me/cs_premiumH2H)
