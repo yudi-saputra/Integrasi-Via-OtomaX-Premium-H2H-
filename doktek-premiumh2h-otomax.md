@@ -4,6 +4,10 @@
 ```bash
 http://rch2h.mmtech.id
 ```
+**IP Center (IRS)**
+```bash
+http://not-ssl.mmtech.id
+```
 **Center Jabber**
 ```bash
 pph2h06@fujabber.com
